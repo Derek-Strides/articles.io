@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1081},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-the-sandbox-review","displayName":"The Sandbox Review","link":{"linkType":"LinkTypePage","href":"#!page-the-sandbox-review"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-the-creation-of-the-gothic","displayName":"The Creation of the Gothic","link":{"linkType":"LinkTypePage","href":"#!page-the-creation-of-the-gothic"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
